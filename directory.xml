@@ -1,125 +1,126 @@
-<?xml version='1.0' encoding='utf-8'?>
+
+<?xml version="1.0" encoding="UTF-8"?>
 <YealinkIPPhoneDirectory>
-  <DirectoryEntry Name="2G Const." Telephone="5416893850" />
-  <DirectoryEntry Name="ABF Freight" Telephone="5416898657" />
-  <DirectoryEntry Name="Access Hardware" Telephone="8003482263" />
-  <DirectoryEntry Name="Acme Const. Supply" Telephone="8662986923" />
-  <DirectoryEntry Name="ADT" Telephone="8002382727" />
-  <DirectoryEntry Name="Advanced Entry" Telephone="8005482701" />
-  <DirectoryEntry Name="Agalite" Telephone="8002378802" />
-  <DirectoryEntry Name="Ameri Clad" Telephone="8552872268" />
-  <DirectoryEntry Name="Arbor South" Telephone="5413443332" />
-  <DirectoryEntry Name="Arcadia LA" Telephone="3239085423" />
-  <DirectoryEntry Name="Arcadia NW" Telephone="8007559792" />
-  <DirectoryEntry Name="Architectural Specialties" Telephone="5032322966" />
-  <DirectoryEntry Name="Arizona Shower" Telephone="5417737900" />
-  <DirectoryEntry Name="ARP" Telephone="5417265570" />
-  <DirectoryEntry Name="BEA" Telephone="8005232462" />
-  <DirectoryEntry Name="Bell Hardware" Telephone="5414857211" />
-  <DirectoryEntry Name="Bi-Mart Office" Telephone="5413440681" />
-  <DirectoryEntry Name="Bineham Const." Telephone="5414849405" />
-  <DirectoryEntry Name="BK Engineers" Telephone="5036070481" />
-  <DirectoryEntry Name="Builder's Electric" Telephone="5414850922" />
-  <DirectoryEntry Name="Bullfrog Enter." Telephone="5417266800" />
-  <DirectoryEntry Name="Carson Saw Shop" Telephone="5413457701" />
-  <DirectoryEntry Name="Cascade Aluminum" Telephone="8006284548" />
-  <DirectoryEntry Name="Chambers Const." Telephone="5416879445" />
-  <DirectoryEntry Name="Citizens Bldg." Telephone="5416879066" />
-  <DirectoryEntry Name="Clear Innovations" Telephone="8007594062" />
-  <DirectoryEntry Name="Colorado Steel" Telephone="8008417330" />
-  <DirectoryEntry Name="Coyote Steel" Telephone="5414612060" />
-  <DirectoryEntry Name="CRL" Telephone="8004216144" />
-  <DirectoryEntry Name="D &amp; M Saw" Telephone="5419286463" />
-  <DirectoryEntry Name="D-Tech Services" Telephone="4257782050" />
-  <DirectoryEntry Name="DeaMor" Telephone="8882846799" />
-  <DirectoryEntry Name="DeMichele Group" Telephone="4809854926" />
-  <DirectoryEntry Name="Disdero Lumber" Telephone="8004525737" />
-  <DirectoryEntry Name="Distinctive Wood" Telephone="5417369909" />
-  <DirectoryEntry Name="Door Controls" Telephone="8004373667" />
-  <DirectoryEntry Name="Dorman Const" Telephone="5419840012" />
-  <DirectoryEntry Name="E &amp; S Hardware" Telephone="5417471773" />
-  <DirectoryEntry Name="Edge Supply" Telephone="5413423641" />
-  <DirectoryEntry Name="Eldorado Tool" Telephone="5128151521" />
-  <DirectoryEntry Name="Emerald Door" Telephone="5414850497" />
-  <DirectoryEntry Name="Emerald Tech Group" Telephone="5415432507" />
-  <DirectoryEntry Name="Emerald Valley Weatherization" Telephone="5417261027" />
-  <DirectoryEntry Name="Essex Const." Telephone="5413424509" />
-  <DirectoryEntry Name="Eugene Builders Exchange" Telephone="5414845331" />
-  <DirectoryEntry Name="Eugene Fastener" Telephone="5413425978" />
-  <DirectoryEntry Name="Factory Direct" Telephone="8009424844" />
-  <DirectoryEntry Name="GBC" Telephone="5417520381" />
-  <DirectoryEntry Name="General Glass" Telephone="3603344107" />
-  <DirectoryEntry Name="Global Closer" Telephone="8002567377" />
-  <DirectoryEntry Name="Hartung OR" Telephone="8005470217" />
-  <DirectoryEntry Name="Hartung WA" Telephone="8005522227" />
-  <DirectoryEntry Name="Heyman's Safe &amp; Lock" Telephone="5417476713" />
-  <DirectoryEntry Name="Hilti Inc" Telephone="8008798000" />
-  <DirectoryEntry Name="Hunter Fabrication" Telephone="5416540457" />
-  <DirectoryEntry Name="Hyland Const" Telephone="5417268081" />
-  <DirectoryEntry Name="ILO Const" Telephone="5415210114" />
-  <DirectoryEntry Name="Innovative Air" Telephone="5417461040" />
-  <DirectoryEntry Name="Jeff Kiddoo" Telephone="5035726788" />
-  <DirectoryEntry Name="Jeff Rubino" Telephone="3605185023" />
-  <DirectoryEntry Name="Jerry's Eugene" Telephone="5416891911" />
-  <DirectoryEntry Name="Jerry's Springfield" Telephone="5417367000" />
-  <DirectoryEntry Name="John Hyland Const." Telephone="5417268081" />
-  <DirectoryEntry Name="John Rose" Telephone="5413426872" />
-  <DirectoryEntry Name="Kawneer Bloomsburg" Telephone="8775053756" />
-  <DirectoryEntry Name="Kawneer Cranberry" Telephone="7247767000" />
-  <DirectoryEntry Name="Kawneer Kent" Telephone="2532362839" />
-  <DirectoryEntry Name="Kawneer Lethbridge" Telephone="4033826738" />
-  <DirectoryEntry Name="Kawneer Nick R" Telephone="5412805773" />
-  <DirectoryEntry Name="Kawneer Nick S" Telephone="4257782050" />
-  <DirectoryEntry Name="Kawneer Ruben" Telephone="3609241126" />
-  <DirectoryEntry Name="Kawneer Springdale" Telephone="8775053783" />
-  <DirectoryEntry Name="Kawneer Visalia" Telephone="8775053785" />
-  <DirectoryEntry Name="Keyhole Locksmith" Telephone="5414846622" />
-  <DirectoryEntry Name="Local 740" Telephone="5032553920" />
-  <DirectoryEntry Name="Marlin Window" Telephone="8005416200" />
-  <DirectoryEntry Name="McIntyre Const." Telephone="5416872841" />
-  <DirectoryEntry Name="McKenzie Commercial" Telephone="5413437143" />
-  <DirectoryEntry Name="Meili Construction" Telephone="5414851417" />
-  <DirectoryEntry Name="Mid-Valley Glass" Telephone="5416879112" />
-  <DirectoryEntry Name="Mid-Valley Metal" Telephone="5417470168" />
-  <DirectoryEntry Name="Moon Shadow" Telephone="5036686154" />
-  <DirectoryEntry Name="Multi-Craft Plastics" Telephone="5414851727" />
-  <DirectoryEntry Name="Nana Wall" Telephone="8008735673" />
-  <DirectoryEntry Name="National Glass" Telephone="5036500161" />
-  <DirectoryEntry Name="NW Fasteners" Telephone="5417462658" />
-  <DirectoryEntry Name="NW Scaffold" Telephone="4584584345" />
-  <DirectoryEntry Name="Oak Leaf Property Management" Telephone="5414854711" />
-  <DirectoryEntry Name="Oldcastle" Telephone="8004430991" />
-  <DirectoryEntry Name="Ordell Const." Telephone="5417478734" />
-  <DirectoryEntry Name="Pacific Architecture" Telephone="8004525737" />
-  <DirectoryEntry Name="Peterson CAT Rentals" Telephone="5417369343" />
-  <DirectoryEntry Name="Petrocard Systems" Telephone="8003673835" />
-  <DirectoryEntry Name="Pivot Architecture" Telephone="5413427291" />
-  <DirectoryEntry Name="Quality Door" Telephone="5035263462" />
-  <DirectoryEntry Name="QXO Product" Telephone="5032816585" />
-  <DirectoryEntry Name="R &amp; S Industrial" Telephone="5417472836" />
-  <DirectoryEntry Name="Riehl Drafting" Telephone="4252416681" />
-  <DirectoryEntry Name="Roberston Sherwood" Telephone="5413428077" />
-  <DirectoryEntry Name="Rowel Brokaw" Telephone="5414851003" />
-  <DirectoryEntry Name="SAF" Telephone="8666606627" />
-  <DirectoryEntry Name="SAFTI First" Telephone="8886533333" />
-  <DirectoryEntry Name="Sani Pac" Telephone="5417363618" />
-  <DirectoryEntry Name="Smith Sheetmetal" Telephone="5417269194" />
-  <DirectoryEntry Name="Springfield Police" Telephone="5417263714" />
-  <DirectoryEntry Name="Springfield Rentals" Telephone="5417468228" />
-  <DirectoryEntry Name="Stedman Sheetmetal" Telephone="5417468511" />
-  <DirectoryEntry Name="Strybuc" Telephone="8003520800" />
-  <DirectoryEntry Name="Stylmark" Telephone="8003282495" />
-  <DirectoryEntry Name="TBG Architecture" Telephone="5416871010" />
-  <DirectoryEntry Name="TGP- Alaina" Telephone="8004260279" />
-  <DirectoryEntry Name="Tormax- Beto" Telephone="2108572607" />
-  <DirectoryEntry Name="Tremco Scott" Telephone="5037014788" />
-  <DirectoryEntry Name="Ultrex" Telephone="5419286522" />
-  <DirectoryEntry Name="VLMK Engineering" Telephone="5032224453" />
-  <DirectoryEntry Name="Watsontown" Telephone="8003440313" />
-  <DirectoryEntry Name="West Coast CAD" Telephone="5037061353" />
-  <DirectoryEntry Name="Western Integrated" Telephone="5626342823" />
-  <DirectoryEntry Name="White Cap" Telephone="8004448877" />
-  <DirectoryEntry Name="William C Earhart" Telephone="8005471314" />
-  <DirectoryEntry Name="Wilson Partition" Telephone="8664437258" />
-  <DirectoryEntry Name="Wolfgang &amp; Assoc." Telephone="8665384788" />
+<DirectoryEntry><Name>ABF Freight</Name><Telephone>5416898657</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Access Hardware</Name><Telephone>8003482263</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Acme Const. Supply</Name><Telephone>8662986923</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>ADT</Name><Telephone>8002382727</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Advanced Entry</Name><Telephone>8005482701</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Agalite</Name><Telephone>8002378802</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Ameri Clad</Name><Telephone>8552872268</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Arbor South</Name><Telephone>5413443332</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Arcadia NW</Name><Telephone>8007559792</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Arcadia LA</Name><Telephone>3239085423</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Architectural Specialties</Name><Telephone>5032322966</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Arizona Shower</Name><Telephone>5417737900</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>ARP</Name><Telephone>5417265570</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>BEA</Name><Telephone>8005232462</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>BK Engineers</Name><Telephone>5036070481</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Bell Hardware</Name><Telephone>5414857211</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Bi-Mart Office</Name><Telephone>5413440681</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Bineham Const.</Name><Telephone>5414849405</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Builder's Electric</Name><Telephone>5414850922</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Bullfrog Enter.</Name><Telephone>5417266800</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>CRL</Name><Telephone>8004216144</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Carson Saw Shop</Name><Telephone>5413457701</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Cascade Aluminum</Name><Telephone>8006284548</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Chambers Const.</Name><Telephone>5416879445</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Citizens Bldg.</Name><Telephone>5416879066</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Clear Innovations</Name><Telephone>8007594062</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Colorado Steel</Name><Telephone>8008417330</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Coyote Steel</Name><Telephone>5414612060</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>D &amp; M Saw</Name><Telephone>5419286463</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>D-Tech Services</Name><Telephone>4257782050</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>DeaMor</Name><Telephone>8882846799</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>DeMichele Group</Name><Telephone>4809854926</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Disdero Lumber</Name><Telephone>8004525737</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Distinctive Wood</Name><Telephone>5417369909</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Door Controls</Name><Telephone>8004373667</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Dorman Const</Name><Telephone>5419840012</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>E &amp; S Hardware</Name><Telephone>5417471773</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Edge Supply</Name><Telephone>5413423641</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Eldorado Tool</Name><Telephone>5128151521</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Emerald Door</Name><Telephone>5414850497</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Emerald Tech Group</Name><Telephone>5415432507</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Emerald Valley Weatherization</Name><Telephone>5417261027</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Essex Const.</Name><Telephone>5413424509</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Eugene Builders Exchange</Name><Telephone>5414845331</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Eugene Fastener</Name><Telephone>5413425978</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Factory Direct</Name><Telephone>8009424844</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>GBC</Name><Telephone>5417520381</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>General Glass</Name><Telephone>3603344107</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Global Closer</Name><Telephone>8002567377</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Hartung OR</Name><Telephone>8005470217</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Hartung WA</Name><Telephone>8005522227</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Heyman's Safe &amp; Lock</Name><Telephone>5417476713</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Hilti Inc</Name><Telephone>8008798000</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Hunter Fabrication</Name><Telephone>5416540457</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Hyland Const</Name><Telephone>5417268081</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>ILO Const</Name><Telephone>5415210114</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Innovative Air</Name><Telephone>5417461040</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Jeff Kiddoo</Name><Telephone>5035726788</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Jeff Rubino</Name><Telephone>3605185023</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Jerry's Eugene</Name><Telephone>5416891911</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Jerry's Springfield</Name><Telephone>5417367000</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>John Hyland Const.</Name><Telephone>5417268081</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>John Rose</Name><Telephone>5413426872</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Kawneer Bloomsburg</Name><Telephone>8775053756</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Kawneer Cranberry</Name><Telephone>7247767000</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Kawneer Kent</Name><Telephone>2532362839</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Kawneer Lethbridge</Name><Telephone>4033826738</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Kawneer Nick R</Name><Telephone>5412805773</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Kawneer Nick S</Name><Telephone>4257782050</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Kawneer Ruben</Name><Telephone>3609241126</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Kawneer Springdale</Name><Telephone>8775053783</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Kawneer Visalia</Name><Telephone>8775053785</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Keyhole Locksmith</Name><Telephone>5414846622</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Local 740</Name><Telephone>5032553920</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Marlin Window</Name><Telephone>8005416200</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>McIntyre Const.</Name><Telephone>5416872841</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>McKenzie Commercial</Name><Telephone>5413437143</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Meili Construction</Name><Telephone>5414851417</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Mid-Valley Glass</Name><Telephone>5416879112</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Mid-Valley Metal</Name><Telephone>5417470168</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Moon Shadow</Name><Telephone>5036686154</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Multi-Craft Plastics</Name><Telephone>5414851727</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>National Glass</Name><Telephone>5036500161</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Nana Wall</Name><Telephone>8008735673</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>NW Fasteners</Name><Telephone>5417462658</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>NW Scaffold</Name><Telephone>4584584345</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Oak Leaf Property Management</Name><Telephone>5414854711</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Oldcastle</Name><Telephone>8004430991</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Ordell Const.</Name><Telephone>5417478734</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Pacific Architecture</Name><Telephone>8004525737</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Peterson CAT Rentals</Name><Telephone>5417369343</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Petrocard Systems</Name><Telephone>8003673835</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Pivot Architecture</Name><Telephone>5413427291</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Quality Door</Name><Telephone>5035263462</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>QXO Product</Name><Telephone>5032816585</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>R &amp; S Industrial</Name><Telephone>5417472836</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Riehl Drafting</Name><Telephone>4252416681</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Roberston Sherwood</Name><Telephone>5413428077</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Rowel Brokaw</Name><Telephone>5414851003</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>SAF</Name><Telephone>8666606627</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>SAFTI First</Name><Telephone>8886533333</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Sani Pac</Name><Telephone>5417363618</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Smith Sheetmetal</Name><Telephone>5417269194</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Springfield Police</Name><Telephone>5417263714</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Springfield Rentals</Name><Telephone>5417468228</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Strybuc</Name><Telephone>8003520800</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Stylmark</Name><Telephone>8003282495</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>2G Const.</Name><Telephone>5416893850</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>TBG Architecture</Name><Telephone>5416871010</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>TGP- Alaina</Name><Telephone>8004260279</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Tormax- Beto</Name><Telephone>2108572607</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Tremco Scott</Name><Telephone>5037014788</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>VLMK Engineering</Name><Telephone>5032224453</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Watsontown</Name><Telephone>8003440313</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>West Coast CAD</Name><Telephone>5037061353</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Western Integrated</Name><Telephone>5626342823</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>White Cap</Name><Telephone>8004448877</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>William C Earhart</Name><Telephone>8005471314</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Wilson Partition</Name><Telephone>8664437258</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Wolfgang &amp; Assoc.</Name><Telephone>8665384788</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Stedman Sheetmetal</Name><Telephone>5417468511</Telephone></DirectoryEntry>
+<DirectoryEntry><Name>Ultrex</Name><Telephone>5419286522</Telephone></DirectoryEntry>
 </YealinkIPPhoneDirectory>
